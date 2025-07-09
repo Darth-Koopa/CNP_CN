@@ -1,0 +1,8 @@
+IdxRes_PuzzleBuiltin.dat
+LE (1C 40->40 1C)
+Offset	Size	Description
+0x20	2	Picross End
+0x24	2	Micross End
+0x28	2	Mega Picross End
+0x46	2	Name offset
+0x56
